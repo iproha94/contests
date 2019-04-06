@@ -2,6 +2,18 @@
 [codeforces.com](http://codeforces.com/)
 
 
+## 1119 (Codeforces Global Round 2)
+06.04.2019
+https://codeforces.com/contests/1119
+
+rating change: +40
+
+- [ ] A (hacked)
+- [x] B
+- [x] C
+- [ ] D (time limit)
+
+
 ## 1144 (Codeforces Round #550 Div. 3)
 31.03.2019
 https://codeforces.com/contests/1144
