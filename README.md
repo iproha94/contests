@@ -2,6 +2,29 @@
 [codeforces.com](http://codeforces.com/)
 
 
+## 1151 (Codeforces Round #553 Div. 2)
+18.04.2019
+https://codeforces.com/contests/1151
+
+rating change: -48
+
+- [x] A
+- [ ] B
+
+
+## 1154 (Codeforces Round #552 Div. 3)
+16.04.2019
+https://codeforces.com/contests/1154
+
+rating change: +21
+
+- [ ] A
+- [x] B
+- [x] C
+- [x] D
+- [ ] E (time limit)
+
+
 ## 1119 (Codeforces Global Round 2)
 06.04.2019
 https://codeforces.com/contests/1119
