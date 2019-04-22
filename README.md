@@ -1,6 +1,15 @@
 # Codeforces contests
 [codeforces.com](http://codeforces.com/)
 
+## 1146 (Forethought Future Cup - Elimination Round)
+20.04.2019
+https://codeforces.com/contests/1146
+
+rating change: -42
+
+- [x] A
+- [x] B
+
 
 ## 1151 (Codeforces Round #553 Div. 2)
 18.04.2019
