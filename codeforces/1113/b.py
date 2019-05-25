@@ -16,7 +16,7 @@ def func(n, arr):
             x1 = (arr[i] + arr[j] - d) / 2 / arr[j]
             x2 = (arr[i] + arr[j] + d) / 2 / arr[j]
             x = round(x1 + (x2 - x1) / 2)
-            # print(f"ai = {arr[i]}; aj = {arr[j]}; x = {x}; x1 = {x1}; x2 = {x2}")
+            # print(f"ai = {arr[i]}; aj = {arr[j]}; x_i = {x_i}; x1 = {x1}; x2 = {x2}")
             if (arr[i] / x).is_integer():
                 sum_after = arr[j] * x + arr[i] / x
                 new_delta = sum_before - sum_after

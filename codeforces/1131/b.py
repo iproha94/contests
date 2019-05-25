@@ -42,10 +42,10 @@ print(f(scores))
 #     count = 0
 #     x0 = scores[0][0]
 #     y0 = scores[0][1]
-#     x = scores[1][0]
+#     x_i = scores[1][0]
 #     y = scores[1][1]
 # 
-#     mn = min(x, y)
+#     mn = min(x_i, y)
 #     mx0 = max(x0, y0)
 #     if mn >= mx0:
 #         count += mn - mx0 + (1 if x0 != y0 else 0)
