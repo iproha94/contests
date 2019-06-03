@@ -1,9 +1,28 @@
 
+## Codeforces: 1148 (Codeforces Global Round 3)
+01.06.2019
+https://codeforces.com/contests/1148
+
+№ 2215/6158  
+rating change: +71  
+
+- [x] A
+- [x] B
+
+
+## Yandex.Contest: 12898 (Final Backend-development)
+01.06.2019
+https://contest.yandex.ru/contest/12898
+
+№ ?/231
+
+- [x] B
+
 ## Yandex.Contest: 12671 (Backend-development)
 26.05.2019
 https://contest.yandex.ru/contest/12671
 
-№ 111/488
+№ 120/515
 
 - [ ] A
 - [ ] B
