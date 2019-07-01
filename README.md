@@ -1,4 +1,15 @@
 
+## Codeforces: 1187 (Educational Codeforces Round 67 )
+30.06.2019 
+https://codeforces.com/contests/1187
+
+№ 2452/8154  
+rating change: -2   
+
+- [x] A
+- [x] B
+
+
 ## Codeforces: 1183 (Codeforces Round #570 Div. 3)
 26.06.2019 
 https://codeforces.com/contests/1183
