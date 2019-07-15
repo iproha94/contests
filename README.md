@@ -1,4 +1,17 @@
 
+## Codeforces: 1194 (Educational Codeforces Round 68 )
+15.07.2019 
+https://codeforces.com/contests/1194
+
+№ 2268/8360  
+rating change: +20   
+
+- [x] A
+- [x] B
+- [x] C
+- [ ] D (TL)
+
+
 ## Codeforces: 1187 (Educational Codeforces Round 67 )
 30.06.2019 
 https://codeforces.com/contests/1187
