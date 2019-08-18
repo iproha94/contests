@@ -1,5 +1,20 @@
 
-## Codeforces: 1194 (Educational Codeforces Round 68 )
+## Codeforces: Round #580 Div. 2
+18.08.2019 
+https://codeforces.com/contests/1206
+
+№ 3841/8826  
+rating change: -28   
+
+- [x] A
+- [x] B
+- [x] C
+- [ ] D
+- [ ] E
+- [ ] F
+
+
+## Codeforces: Educational Round 68
 15.07.2019 
 https://codeforces.com/contests/1194
 
@@ -12,7 +27,7 @@ rating change: +20
 - [ ] D (TL)
 
 
-## Codeforces: 1187 (Educational Codeforces Round 67 )
+## Codeforces: Educational Round 67
 30.06.2019 
 https://codeforces.com/contests/1187
 
@@ -23,7 +38,7 @@ rating change: -2
 - [x] B
 
 
-## Codeforces: 1183 (Codeforces Round #570 Div. 3)
+## Codeforces: Round #570 Div. 3
 26.06.2019 
 https://codeforces.com/contests/1183
 
@@ -36,7 +51,7 @@ rating change: -12
 - [x] D (TL with Pypy3)  
 
 
-## Codeforces: 1181 (Codeforces Round #567 Div. 2)
+## Codeforces: Round #567 Div. 2
 16.06.2019 
 https://codeforces.com/contests/1181
 
@@ -47,7 +62,7 @@ rating change: +65
 - [x] B
 
 
-## Codeforces: 1148 (Codeforces Global Round 3)
+## Codeforces: Global Round 3
 01.06.2019
 https://codeforces.com/contests/1148
 
@@ -58,7 +73,7 @@ rating change: +71
 - [x] B
 
 
-## Yandex.Contest: 12898 (Final Backend-development)
+## Yandex.Contest: Final Backend-development
 01.06.2019
 https://contest.yandex.ru/contest/12898
 
@@ -66,7 +81,7 @@ https://contest.yandex.ru/contest/12898
 
 - [x] B
 
-## Yandex.Contest: 12671 (Backend-development)
+## Yandex.Contest: Qualification Backend-development
 26.05.2019
 https://contest.yandex.ru/contest/12671
 
@@ -78,7 +93,7 @@ https://contest.yandex.ru/contest/12671
 - [x] F
 
 
-## Codeforces: 1146 (Forethought Future Cup - Elimination Round)
+## Codeforces: Forethought Future Cup - Elimination Round
 20.04.2019
 https://codeforces.com/contests/1146
 
@@ -88,7 +103,7 @@ rating change: -42
 - [x] B
 
 
-## Codeforces: 1151 (Codeforces Round #553 Div. 2)
+## Codeforces: Round #553 Div. 2
 18.04.2019
 https://codeforces.com/contests/1151
 
@@ -98,7 +113,7 @@ rating change: -48
 - [ ] B
 
 
-## Codeforces: 1154 (Codeforces Round #552 Div. 3)
+## Codeforces: Round #552 Div. 3
 16.04.2019
 https://codeforces.com/contests/1154
 
@@ -111,7 +126,7 @@ rating change: +21
 - [ ] E (time limit)
 
 
-## Codeforces: 1119 (Codeforces Global Round 2)
+## Codeforces: Global Round 2
 06.04.2019
 https://codeforces.com/contests/1119
 
@@ -123,7 +138,7 @@ rating change: +40
 - [ ] D (time limit)
 
 
-## Codeforces: 1144 (Codeforces Round #550 Div. 3)
+## Codeforces: Round #550 Div. 3
 31.03.2019
 https://codeforces.com/contests/1144
 
@@ -135,7 +150,7 @@ rating change: +91
 - [x] D
 
 
-## Codeforces: 1143 (Codeforces Round #549 Div. 2)
+## Codeforces: Round #549 Div. 2
 30.03.2019
 https://codeforces.com/contests/1143
 
@@ -144,7 +159,7 @@ rating change: -35
 - [x] A
 
 
-## Codeforces: 1139 (Codeforces Round #548 Div. 2)
+## Codeforces: Round #548 Div. 2
 21.03.2019
 https://codeforces.com/contests/1139
 
@@ -154,7 +169,7 @@ rating change: +47
 - [x] B
 
 
-## Codeforces: 1141 (Codeforces Round #547 Div. 3)
+## Codeforces: Round #547 Div. 3
 19.03.2019
 https://codeforces.com/contests/1141
 
@@ -166,7 +181,7 @@ rating change: -20
 - [x] D
 
 
-## Codeforces: 1136 (Codeforces Round #546 Div. 2)
+## Codeforces: Round #546 Div. 2
 11.03.2019
 https://codeforces.com/contests/1136
 
@@ -177,7 +192,7 @@ rating change: -60
 - [ ] C
 
 
-## Codeforces: 1138 (Codeforces Round #545 Div. 2)
+## Codeforces: Round #545 Div. 2
 08.03.2019
 https://codeforces.com/contests/1138
 
@@ -188,7 +203,7 @@ rating change: +35
 - [ ] C
 
 
-## Codeforces: 1132 (Educational Codeforces Round 61)
+## Codeforces: Educational Round 61
 05.03.2019
 https://codeforces.com/contests/1132
 
@@ -198,7 +213,7 @@ rating change: +116
 - [x] B
 
 
-## Codeforces: 1121 (round 543 div. 2)
+## Codeforces: Round 543 div. 2
 03.03.2019 
 http://codeforces.com/contest/1121
 
@@ -206,7 +221,7 @@ http://codeforces.com/contest/1121
 - [x] B
 
 
-## Codeforces: 1130 (round 542 div. 2)
+## Codeforces: Round 542 div. 2
 24.02.2019 
 http://codeforces.com/contest/1130
 
@@ -216,7 +231,7 @@ rating change: -68
 - [ ] B
 
 
-## Codeforces: 1131 (round 541 div. 2)
+## Codeforces: Round 541 div. 2
 23.02.2019 
 http://codeforces.com/contest/1131
 
@@ -227,7 +242,7 @@ rating change: +87
 - [x] C
 
 
-## Codeforces: 1118 (round 540 div. 3)
+## Codeforces: Round 540 div. 3
 19.02.2019 
 http://codeforces.com/contest/1118
 
@@ -237,7 +252,7 @@ rating change: +14
 - [ ] B
 
 
-## Codeforces: 1113 (round 539 div. 2)
+## Codeforces: Round 539 div. 2
 16.02.2019 
 http://codeforces.com/contest/1113
 
