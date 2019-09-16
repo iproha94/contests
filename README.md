@@ -1,4 +1,19 @@
 
+## Codeforces: Round #585 (Div. 2) 
+15.09.2019 
+https://codeforces.com/contests/1215
+
+№ 3123/6611  
+rating change: -36   
+
+- [x] A
+- [ ] B
+- [ ] C
+- [ ] D
+- [ ] E
+- [ ] F
+
+
 ## Codeforces: Round #584 - Dasha Code Championship - отборочный раунд 
 14.09.2019 
 https://codeforces.com/contests/1209
