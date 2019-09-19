@@ -1,4 +1,20 @@
 
+## Codeforces: Round #586 (Div. 1 + Div. 2) 
+18.09.2019 
+https://codeforces.com/contests/1220
+
+№ 1635/8393  
+rating change: +90  
+
+- [x] A
+- [x] B
+- [x] C
+- [ ] D
+- [ ] E
+- [ ] F
+- [ ] G
+
+
 ## Codeforces: Round #585 (Div. 2) 
 15.09.2019 
 https://codeforces.com/contests/1215
