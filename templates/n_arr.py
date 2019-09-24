@@ -1,17 +1,13 @@
 import os
 
 
-def _f(n, arr):
+def f(arr):
     return 0
 
 
-def f(n, arr):
-    return _f(n, arr)
-
-
 if os.environ.get('DEBUG', False):
-    print(f"{f(0, [])} = 0")
+    print(f"{f([])} = 0")
 else:
-    n = int(input())
+    input()
     arr = list(map(int, input().split()))
-    print(f(n, arr))
+    print(f(arr))

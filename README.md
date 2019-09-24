@@ -1,4 +1,20 @@
 
+## Codeforces: Round #587 (Div. 3) 
+21.09.2019 
+https://codeforces.com/contests/1216
+
+№ 1136/4946  
+rating change: +15  
+
+- [x] A
+- [x] B
+- [ ] C
+- [x] D
+- [ ] E
+- [ ] F
+- [ ] G
+
+
 ## Codeforces: Round #586 (Div. 1 + Div. 2) 
 18.09.2019 
 https://codeforces.com/contests/1220
