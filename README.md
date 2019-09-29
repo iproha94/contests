@@ -1,4 +1,19 @@
 
+## Codeforces: Round #589 (Div. 2) 
+29.09.2019 
+https://codeforces.com/contests/1228
+
+№ 3002/7964  
+rating change: +8  
+
+- [x] A
+- [x] B
+- [ ] C
+- [ ] D
+- [ ] E
+- [ ] F
+
+
 ## Codeforces: Round #587 (Div. 3) 
 21.09.2019 
 https://codeforces.com/contests/1216

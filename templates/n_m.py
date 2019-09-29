@@ -1,12 +1,8 @@
 import os
 
 
-def _f(n, m):
-    return 0
-
-
 def f(n, m):
-    return _f(n, m)
+    return 0
 
 
 if os.environ.get('DEBUG', False):
