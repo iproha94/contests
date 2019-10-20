@@ -1,4 +1,19 @@
 
+## Codeforces: Round #592 (Div. 2) 
+13.10.2019 
+https://codeforces.com/contests/1244
+
+№ 2724/6065  
+rating change: -15  
+
+- [x] A
+- [x] B
+- [ ] C
+- [ ] D
+- [ ] E
+- [ ] F
+- [ ] G
+
 ## Codeforces: Round #589 (Div. 2) 
 29.09.2019 
 https://codeforces.com/contests/1228
