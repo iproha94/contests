@@ -1,3 +1,14 @@
+## Yandex.Contest: Qualification Backend-development
+20.10.2019
+https://contest.yandex.ru/contest/14567
+
+№ 105/386
+
+- [x] A
+- [ ] B
+- [ ] C
+- [ ] D (partial solution)
+
 
 ## Codeforces: Round #592 (Div. 2) 
 13.10.2019 
@@ -13,6 +24,7 @@ rating change: -15
 - [ ] E
 - [ ] F
 - [ ] G
+
 
 ## Codeforces: Round #589 (Div. 2) 
 29.09.2019 
