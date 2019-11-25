@@ -1,3 +1,20 @@
+## Codeforces: Round #602 (Div. 2, основан на Отборочном раунде 3 Технокубка 2020)
+24.11.2019 
+https://codeforces.com/contests/1262
+
+№ 1330/2950  
+rating change: -4   
+
+- [x] A
+- [x] B
+- [ ] C
+- [ ] D1 (time limit)
+- [ ] D2
+- [ ] E
+- [ ] F1
+- [ ] F2
+
+
 ## Yandex.Contest: Qualification Backend-development
 20.10.2019
 https://contest.yandex.ru/contest/14567
