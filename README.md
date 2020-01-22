@@ -1,3 +1,18 @@
+## Codeforces: Round #615 (Div. 3)
+22.01.2020 
+https://codeforces.com/contests/1294
+
+№ ?/?  
+rating change: +/-0  
+
+- [x] A
+- [x] B
+- [x] C
+- [x] D (after finish)
+- [ ] E
+- [ ] F
+
+
 ## Codeforces: Round #602 (Div. 2, основан на Отборочном раунде 3 Технокубка 2020)
 24.11.2019 
 https://codeforces.com/contests/1262
