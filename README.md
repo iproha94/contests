@@ -1,9 +1,29 @@
+## RuCode: Qualification 2020
+07.04.2020 
+http://rucode.it-edu.mipt.ru/intensives2020qual
+
+№ 138/808  
+
+- [x] A
+- [x] B
+- [x] C
+- [x] D
+- [x] E
+- [ ] F
+- [ ] G
+- [ ] H
+- [ ] I
+- [ ] J
+- [ ] K
+- [ ] L
+
+
 ## Codeforces: Round #615 (Div. 3)
 22.01.2020 
 https://codeforces.com/contests/1294
 
-№ ?/?  
-rating change: +/-0  
+№ 1863/10305  
+rating change: +26  
 
 - [x] A
 - [x] B
