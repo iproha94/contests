@@ -1,3 +1,12 @@
+## Yandex.Contest: Набор в ШАД 2020. Онлайн-тест. Вариант 72
+05.05.2020  
+https://contest.yandex.ru/contest/17630  
+
+- [x] J
+- [ ] K (partially)
+- [ ] L (partially)
+
+
 ## RuCode: Qualification 2020
 07.04.2020 
 http://rucode.it-edu.mipt.ru/intensives2020qual
