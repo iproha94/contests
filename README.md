@@ -1,3 +1,19 @@
+## Codeforces: Round #653 (Div. 3)
+28.06.2020 
+https://codeforces.com/contests/1374
+
+№ 2316/11581  
+rating change: +2  
+
+- [x] A
+- [x] B
+- [x] C
+- [x] D
+- [ ] E1
+- [ ] E2
+- [ ] F
+
+
 ## Yandex.Contest: Набор в ШАД 2020. Онлайн-тест. Вариант 72
 05.05.2020  
 https://contest.yandex.ru/contest/17630  
