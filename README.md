@@ -1,3 +1,19 @@
+## Codeforces: Round #656 (Div. 3)
+17.07.2020 
+https://codeforces.com/contests/1385
+
+№ 4773/14167  
+rating change: -47  
+
+- [x] A
+- [x] B
+- [x] C
+- [ ] D
+- [ ] E
+- [ ] F
+- [ ] G
+
+
 ## Codeforces: Round #653 (Div. 3)
 28.06.2020 
 https://codeforces.com/contests/1374
