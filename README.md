@@ -1,3 +1,19 @@
+## Codeforces: Round #677 (Div. 3)
+20.10.2020 
+https://codeforces.com/contests/1385
+
+№ 4179/13133  
+rating change: -44  
+
+- [x] A
+- [x] B
+- [x] C
+- [x] D
+- [ ] E
+- [ ] F
+- [ ] G
+
+
 ## Codeforces: Round #656 (Div. 3)
 17.07.2020 
 https://codeforces.com/contests/1385
