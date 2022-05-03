@@ -1,3 +1,38 @@
+## Codeforces: Round #786 (Div. 3)
+02.05.2022 
+https://codeforces.com/contests/1674
+
+№ 7663/8134  
+rating change: -77  
+
+- [x] A
+- [x] B
+- [x] C
+- [ ] D
+- [ ] E
+- [ ] F
+- [ ] G
+
+
+## Codeforces: Round #712 (Div. 2)
+03.04.2021 
+https://codeforces.com/contests/1504
+
+№ 5989/11314  
+rating change: -68  
+
+- [x] A (after finish)
+- [x] B
+- [x] C (after finish)
+- [ ] D
+- [ ] E
+- [ ] F
+
+
+## Ozon
+03.2021
+
+
 ## Codeforces: Round #677 (Div. 3)
 20.10.2020 
 https://codeforces.com/contests/1385
