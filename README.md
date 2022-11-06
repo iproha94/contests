@@ -1,3 +1,8 @@
+## Yandex: 42202
+04.11.2022 
+https://contest.yandex.ru/yacup/contest/42199/
+
+
 ## Codeforces: Round #786 (Div. 3)
 02.05.2022 
 https://codeforces.com/contests/1674
