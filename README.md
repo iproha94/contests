@@ -1,6 +1,10 @@
+## Yandex: 42199
+06.11.2022 
+https://contest.yandex.ru/yacup/contest/42199/
+
 ## Yandex: 42202
 04.11.2022 
-https://contest.yandex.ru/yacup/contest/42199/
+https://contest.yandex.ru/yacup/contest/42202/
 
 
 ## Codeforces: Round #786 (Div. 3)
